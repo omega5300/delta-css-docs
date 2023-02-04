@@ -11,6 +11,7 @@ export default defineUserConfig({
   }),
   theme: defaultTheme({
     // default theme options here
+    repo: 'https://github.com/omega5300/delta-css',
     navbar: [
       {
         text: 'Get Started',

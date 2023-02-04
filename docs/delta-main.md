@@ -38,7 +38,8 @@ const { deltaMenu, } = require('delta-css/themes/main')
 
 /* styles */
 import 'delta-css/styles/delta-fonts.css' // fonts
-import 'delta-css/themes/main/delta.css' // theme
+import 'delta-css/themes/main/delta.css' // theme css mode
+import 'delta-css/themes/main/scss/delta.scss' // theme sass mode
 
 // import global
 import { deltaMainTheme } from 'delta-css'

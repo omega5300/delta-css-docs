@@ -47,7 +47,8 @@ const {
 
 /* styles */
 import 'delta-css/styles/delta-fonts.css' // fonts
-import 'delta-css/themes/light-dark/delta.css' // theme
+import 'delta-css/themes/light-dark/delta.css' // theme css mode
+import 'delta-css/themes/light-dark/delta.tailwind.css' // theme taildwind css mode
 
 // import global
 import { deltaLightDarkTheme } from 'delta-css'
